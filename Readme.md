@@ -2,10 +2,11 @@
 Project is a basic concept for test automation for crawler plugin.
 
 ## Installation
+```bash
 
 1. Clone the repository:
 
-```bash
+    https://github.com/fseker/WP
 
 2. npm install
 
